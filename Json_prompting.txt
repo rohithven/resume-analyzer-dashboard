@@ -1,0 +1,25 @@
+{
+  "duration": "15 seconds",
+  "style": "cinematic, animated, high detail, modern",
+  "character": "Muscular hero in dark green bodysuit with brown gloves and boots, mask open at mouth, calm expression, 'SE' symbol on chest, modern tactical design",
+  "scenes": [
+    {
+      "duration": "6 seconds",
+      "environment": "busy Chennai street with traffic",
+      "action": "Hero stands on road, then launches upward flying into the sky",
+      "camera": "low angle tracking up"
+    },
+    {
+      "duration": "5 seconds",
+      "environment": "clouds in sky",
+      "action": "Hero flies upward through clouds, sunlight around him, no cape visible",
+      "camera": "follow from behind"
+    },
+    {
+      "duration": "4 seconds",
+      "environment": "above clouds bright sky",
+      "action": "Hero flies with eagles, text 'Hello eagles' appears like comic style",
+      "camera": "wide front shot"
+    }
+  ]
+}
